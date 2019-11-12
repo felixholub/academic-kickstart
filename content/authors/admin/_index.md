@@ -44,7 +44,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#mailto:feholub@mail.uni-mannheim.de'  # For a direct email link, use "mailto:test@example.org".
+  link: "feholub@mail.uni-mannheim.de"  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
