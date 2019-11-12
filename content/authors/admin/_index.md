@@ -68,7 +68,7 @@ email: "felix.holub@gess.uni-mannheim.de"
 #user_groups:
 #- Researchers
 #- Visitors
-
+---
 
 I'm a PhD candidate at the Department of Economics at the University of Mannheim, Germany. In my research I study questions in applied microeconomics using large datasets.
 
@@ -76,4 +76,3 @@ Interests:
 * Labor Economics
 * Environmental Economics
 * Health Economics
----
