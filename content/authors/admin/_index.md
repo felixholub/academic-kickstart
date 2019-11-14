@@ -13,7 +13,7 @@ superuser: true
 role: PhD Candidate in Economics
 
 # Organizations/Affiliations
-#organizations:
+organizations:
 - name: University of Mannheim
   url: "https://www.vwl.uni-mannheim.de/en/"
 
@@ -72,7 +72,7 @@ email: "felix.holub@gess.uni-mannheim.de"
 
 I'm a PhD candidate at the Department of Economics at the University of Mannheim, Germany. In my research I study questions in applied microeconomics using large datasets.
 
-Interests:
+Research Interests:
 
 * Labor Economics
 * Environmental Economics
