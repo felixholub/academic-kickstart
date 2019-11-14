@@ -16,7 +16,6 @@ role: PhD Candidate in Economics
 organizations:
 - name: University of Mannheim
   url: "https://www.vwl.uni-mannheim.de/en/"
-  test
 
 # Short bio (displayed in user profile at end of posts)
 #bio:
