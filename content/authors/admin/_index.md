@@ -10,14 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: so <br>
-```
-    Department of Economics
-    University of Mannheim
-    L7, 3-5, Room 210
-    68161 Mannheim
-    Germany
-```
+role: Department of Economics <br>
+      University of Mannheim <br>
+      L7, 3-5, Room 210 <br>
+      68161 Mannheim  <br>
+      Germany  <br>
+      `felix.holub@gess.uni-mannheim.de`
 # Organizations/Affiliations
 organizations:
 - name: felix.holub@gess.uni-mannheim.de
