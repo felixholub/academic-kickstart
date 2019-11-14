@@ -16,7 +16,7 @@ role: PhD Candidate in Economics <br>
 # Organizations/Affiliations
 organizations:
 - name: felix.holub@gess.uni-mannheim.de
-  url: "mailto:felix.holub@gess.uni-mannheim.de"
+  url: "felix.holub@gess.uni-mannheim.de"
 
 # Short bio (displayed in user profile at end of posts)
 #bio:
