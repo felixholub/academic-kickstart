@@ -10,9 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Economics <br>
-      test
-
+role: ```
+      Room 210
+      L7, 3-5
+      University of Mannheim
+      68161 Mannheim
+      Germany
+      ```
+#PhD Candidate in Economics <br>
+#      test
 # Organizations/Affiliations
 organizations:
 - name: felix.holub@gess.uni-mannheim.de
