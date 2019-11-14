@@ -19,7 +19,7 @@ role: Department of Economics <br>
 # Organizations/Affiliations
 organizations:
 - name: felix.holub@gess.uni-mannheim.de
-  url: "mailto: felix.holub@gess.uni-mannheim.de"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 #bio:
