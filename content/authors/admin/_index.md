@@ -15,7 +15,7 @@ role: Department of Economics <br>
       L7, 3-5, Room 210 <br>
       68161 Mannheim  <br>
       Germany  <br>
-      `felix.holub@gess.uni-mannheim.de`
+      ` +49 621 181 1772`
 # Organizations/Affiliations
 organizations:
 - name: felix.holub@gess.uni-mannheim.de
