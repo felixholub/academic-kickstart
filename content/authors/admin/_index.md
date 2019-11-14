@@ -10,19 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: ```
-      Room 210
+role: Department of Economics <br>
+      University of Mannheim <br>
       L7, 3-5
-      University of Mannheim
-      68161 Mannheim
-      Germany
-      ```
-#PhD Candidate in Economics <br>
-#      test
 # Organizations/Affiliations
 organizations:
 - name: felix.holub@gess.uni-mannheim.de
-  url: "felix.holub@gess.uni-mannheim.de"
+  url: "https://www.vwl.uni-mannheim.de/en/"
 
 # Short bio (displayed in user profile at end of posts)
 #bio:
