@@ -18,7 +18,7 @@ role: Department of Economics <br>
       ` +49 621 181 1772`
 # Organizations/Affiliations
 organizations:
-- name: felix.holub@gess.uni-mannheim.de  <br>
+- name: felix.holub@gess.uni-mannheim.de      
         +49 621 181 1772
   url: ""
 
