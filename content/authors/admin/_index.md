@@ -10,7 +10,8 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Economics
+role: PhD Candidate in Economics \
+      test
 
 # Organizations/Affiliations
 organizations:
