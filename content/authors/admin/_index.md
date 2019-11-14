@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-#role: PhD Candidate in Economics
+role: PhD Candidate in Economics
 
 # Organizations/Affiliations
 #organizations:
-#- name: University of Mannheim
-#  url: "https://www.vwl.uni-mannheim.de/en/"
+- name: University of Mannheim
+  url: "https://www.vwl.uni-mannheim.de/en/"
 
 # Short bio (displayed in user profile at end of posts)
 #bio:
