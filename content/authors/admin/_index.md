@@ -1,6 +1,6 @@
 ---
 # Display name
-#name: Felix Holub
+name: Felix Holub
 
 # Username (this should match the folder name)
 authors:
@@ -15,8 +15,8 @@ role: PhD Candidate in Economics <br>
 
 # Organizations/Affiliations
 organizations:
-- name: University of Mannheim
-  url: "https://www.vwl.uni-mannheim.de/en/"
+- name: felix.holub@gess.uni-mannheim.de
+  url: "mailto:felix.holub@gess.uni-mannheim.de"
 
 # Short bio (displayed in user profile at end of posts)
 #bio:
