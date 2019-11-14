@@ -12,11 +12,13 @@ superuser: true
 # Role/position
 role: Department of Economics <br>
       University of Mannheim <br>
-      L7, 3-5
+      L7, 3-5, Room 210 <br>
+      68161 Mannheim  <br>
+      Germany
 # Organizations/Affiliations
 organizations:
 - name: felix.holub@gess.uni-mannheim.de
-  url: "https://www.vwl.uni-mannheim.de/en/"
+  url: "mailto: felix.holub@gess.uni-mannheim.de"
 
 # Short bio (displayed in user profile at end of posts)
 #bio:
